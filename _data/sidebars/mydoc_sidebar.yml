@@ -44,6 +44,31 @@ entries:
       url: /mydoc_1-4.html
       output: web
 
+  - title: Technical and Professional Writers within Organizations
+    output: web, pdf
+    folderitems:
+
+    - title: Why it matters? 
+      url: /mydoc_2.1.html
+      output: web, pdf
+
+    - title: TBA
+      url: /mydoc_2-2.html
+      output: web, pdf
+
+    - title: TBA
+      url: /mydoc_2-3.html
+      output: web, pdf
+
+    - title: TBA
+      url: /mydoc_2-4.html
+      output: web, pdf
+
+    - title: Wrap-up
+      url: /mydoc_2-5.html
+      output: web
+
+
 #   - title: Release Notes
 #     output: web, pdf
 #     folderitems:
