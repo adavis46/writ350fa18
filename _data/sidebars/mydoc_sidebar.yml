@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Why it matters? 
-      url: /mydoc_1-0.html 
+      url: /mydoc_1-0.html
       output: web, pdf
       type: web, pdf 
 
