@@ -5,7 +5,7 @@ last_updated: August 10, 2017
 tags: [technical_writing]
 summary: Why it Matters introduction page for the first open text unit 
 sidebar: mydoc_sidebar
-permalink: mydoc_1-1.html
+permalink: mydoc_1-0.html
 folder: mydoc
 ---
 ## What are the foundations of technical and professional writing? 
