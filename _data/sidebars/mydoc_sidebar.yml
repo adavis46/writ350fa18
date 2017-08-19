@@ -2,17 +2,17 @@
 
 entries:
 - title: sidebar
-  product: WRIT 300 TXT
-  version: 0.1
+  product: Course Navigation 
+  version: 1.0
   folders:
 
-  - title:
-    output: pdf
+  - title: WRIT 300 Open Text 
+    output: web
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage
-      output: pdf
+      url: /index.html
+      output: web
       type: frontmatter
     - title:
       url: /tocpage
@@ -24,9 +24,9 @@ entries:
     folderitems:
 
     - title: Why it matters? 
-      url: /index.html
+      url: /mydoc_1-0.html 
       output: web, pdf
-      type: homepage
+      type: web, pdf 
 
     - title: Introduction to Technical Writing
       url: /mydoc_1-1.html
