@@ -1,54 +1,36 @@
 ---
-title: Why it Matters
-keywords: sample homepage
+title: About WRIT 300
+keywords: introduction, writ300
 tags:
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This page will provide basic instructions for navigating the repository. 
 ---
-## What are the foundations of technical and professional writing? 
-![mindmap of career opportunities and challenges for professional writing](images/profwrit.jpg)
+## Welcome to the WRIT 300 Open Text
+This site contains texts and media for WRIT 300: Foundations of Technical and Professional Writing that are additional to the printed textbook. All the content on this site is licensed for open access (see: [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources)). It is designed to be shared and remixed as approoriate. Licensing information for all content can be found at the bottom of each content page. 
 
-WRIT 300's focus is introducing you to the related fields of technical writing and professional writing. Sometimes these fields are grouped under the umbrella of "technical communication." You will learn how to write clearly and concisely for different (and sometimes dynamic) audiences with distinct needs. 
+## What is this course? 
+WRIT 300 is meant to serve as an introduction to both technical and professional writing. As you will learn, these are very different fields, but they have enough in common to have a common foundation. This course currently serves as the core requirement for the University of Mississippi's Minor in Professional Writing. Thus, the course assumes that students have no prior experience with professional or technical writing. 
 
-> Communication leads to community, that is, to understanding, intimacy and mutual valuing. - *Rollo May*
->  
->
->
-> I know that you believe that you understood what you think I said, but I am not sure you realize that what you heard is not what I meant. - *Robert J. McCloskey, former State Department spokesman*
+This course follows a survey model and will expose students to a wide range of topics, issues, and skills. It is intended to help students decide which trajectory they are interested in following for the rest of the minor. However, students taking the course as an elective outside of the minor will also find it a useful primer in professional and technical writing. The course has a practical focus and is designed to be career skill-driven. 
 
-Effective communication takes preparation, practice, and persistence. There are many ways to learn communication skills; the school of experience, or “hard knocks,” is one of them. But in the business environment, a “knock” (or lesson learned) may come at the expense of your credibility through a blown presentation to a client. The classroom environment, with a compilation of information and resources such as a text, can offer you a trial run where you get to try out new ideas and skills before you have to use them to communicate effectively to make a sale or form a new partnership. Listening to yourself, or perhaps the comments of others, may help you reflect on new ways to present, or perceive, thoughts, ideas and concepts. The net result is your growth; ultimately your ability to communicate in business will improve, opening more doors than you might anticipate.
+## How is the course structured? 
+WRIT 300 is offered both online and face-to-face. There are differences between the two formats, but they follow the same curriculum for the most part. 
 
-### Writing in Business
-Communication is key to your success—in relationships, in the workplace, as a citizen of your country, and across your lifetime. Your ability to communicate comes from experience, and experience can be an effective teacher, but this text and the related business communication course will offer you a wealth of experiences gathered from professional speakers across their lifetimes. You can learn from the lessons they’ve learned and be a more effective communicator right out of the gate.
+The course is based on a set of learning outcomes: 
+* Understand how various organizations and industries define professional and technical writing as well as how various disciplines define professional and technical writing studies.
+* Discuss what kinds of roles and what types of activities professional and technical writers perform within various organizations and industries.
+* Define core concepts of professional and technical writing, such as genre, context, audience, culture, usability, writing, information design, work tools, usability, technology, and new media, and discuss how these concepts relate to the work of professional and technical writing.
+* Use and apply knowledge of the kinds of documents; rhetoric and design principles; and digital tools, research skills, and writing strategies that mark ethical, effective professional writing practice.
+* Identify and analyze patterns in one’s own writing practice and in the writing and communication practices of organizations or communities in which one works.
+* Use problem-solving methods from the fields of professional and technical writing studies and rhetorical studies to invent or redesign texts and communication tools and to manage individual and collaborative writing projects.
+* Design and compose a writing portfolio that showcases the student’s professional and technical writing competencies and projects a distinct professional writing identity.
 
-Business communication can be thought of as a problem solving activity in which individuals may address the following questions:
+Each project and assignment generally follows a problem solving approach, hence the title of the primary text for the course, *Solving Problems in Technical Communication*. 
 
-- What is the situation?
-- What are some possible communication strategies?
-- What is the best course of action?
-- What is the best way to design the chosen message?
-- What is the best way to deliver the message?
+Students will work individually and collaboratively on technical and professional writing tasks and will encounter (and design) a wide range of documents. Because of the nature of the course as a survey, students won't become *experts,* but they will have exposure and cursory understanding of a wide range of topics and concepts in the fields of technical and professional writing. 
 
-### Technical Writing
-Technical writing is an audience-centered means of communication that provides a reader with clear and easy access to information.  In the business world, time equates to profit, and profit is the force behind all business interaction. The technical writer and reader have a vis-à-vis relationship. The writer recognizes, respects, and addresses the importance of time in effective and efficient communication by providing documents written in specific formats, using unambiguous language to send clearly assessable information. The reader in turn thoroughly understands the information in order to give a thoughtful response.
+## Portfolio Focus
+WRIT 300, as the introductory course for the Minor in Professional Writing, has a strong focus on portfolio building. In addition to its application in future MiPW courses, technical and professional writers can expect to build and maintain some kind of portfolio over the course of their careers. This course serves to introduce the basic concepts involved in the construction of a portfolio, including the different ways one can be applied inside and outside of the academy. 
 
-The definite purpose, strict format and use of appropriate language in technical writing define the differences between technical writing and academic writing.  The academic writer purpose may be to write an assignment, a story, a letter, etc.. These works may or may not have a reader. However, technical writing always has a definite purpose and will always have a reader.  Regardless of the number of the intended readers of a document who may or may not read the document, the document will be read by the primary reader.
 
-### Objectives for this Course
-
-- Develop professional writing goals for your career
-- Write in different contexts and under different cirumstances
-- Write in differnet media and formats 
-- Learn the platforms professional and technical writers use to communicate
-- Solve problems and propose solutions in real-world writing contexts
-- Assemble a portfolio to gather and track writing accomplishments
-
-### About this Repository
-In addition to our course textbook *Soliving Problems in Technical Communication*, all additional reading and media will be hosted here. All material in this repository has a Creative Commons, MIT, GNU, or Apache license and is free/libre. That means it's free to remix and use as you find appropriate as long as you provide attribution. 
-
-### Attributions
-
-1. Technical Writing. Authored by: Dr. Elizabeth Lohman. Provided by: Tidewater Community College. Located at: http://www.tcc.edu/. Project: Z Degree Program. License: CC BY
-2. Business Communication for Success. Provided by: Saylor Academy. Located at: https://saylordotorg.github.io/text_business-communication-for-success/index.html License: CC BY NC SA
-3. Image: #oppolandscape of Julian getting paid doing English Professional Writing. Authored by: Julian Partridge. Located at: https://www.flickr.com/photos/julianpartridge/15806266353 License: CC BY SA 
