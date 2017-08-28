@@ -2,7 +2,7 @@
 title: Why it Matters
 keywords: visualization, flow-chart, data
 last_updated: August 24, 2017
-tags: [technical_writing], [visualization], [flowcharts]
+tags: [technical_writing]
 summary: Introductory page for the second module dealing with visualization and flow-charts 
 sidebar: mydoc_sidebar
 permalink: mydoc_2-0.html

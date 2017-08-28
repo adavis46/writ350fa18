@@ -2,7 +2,7 @@
 title: Visualizing Information
 keywords: visualization, flow-chart, data
 last_updated: August 24, 2017
-tags: [technical_writing], [visualization], [flowcharts]
+tags: [technical_writing]
 summary: General explanation of how to visualize different types of information
 sidebar: mydoc_sidebar
 permalink: mydoc_2-1.html
