@@ -8,7 +8,6 @@ sidebar: mydoc_sidebar
 permalink: mydoc_2-1.html
 folder: mydoc
 ---
-
 Visualizations are an essential component of most writing in professional or technical contexts. The use of graphics and the types of visualization varies significantly by task and audience. The main purpose of a visualization in any context is to clarify, supplement, or enhance the information surrounding it. Thus, in your review of a document, the graphic should *help* your understanding of the content. If the graphic confuses you, or any other member of the audience, it is ineffective in either design or placement. 
 
 Here are some general guidelines for including graphics in any type of document: 
