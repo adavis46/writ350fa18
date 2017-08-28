@@ -26,10 +26,10 @@ Visualizations can play important roles at various points of the document develo
 
 One way to break this down is based on audience:
 
-### Internal Process Visualizations
+## Internal Process Visualizations
 Internal visualizations can be a part of your documentation process. Think of the mind maps or word clouds you probably used in introductory writing classes to brainstornm. The mind map never actually made it into your final paper, but it was an essential part of the process. Rough visualizations and sketches can be repurposed for external audiences, but remember the main rule above: they must claify, not obfuscate, your message.
 
-### External Process Visualizations
+## External Process Visualizations
 Flow charts and other types of process visualizations are an essential part of many technical documents. If, for example, you are writing instructions for documentation about a piece of radio equipment at the radio station you're interning with, a visual representation of the controls layout and how the function would be more helpful than a textual description. Likewise, if you are working for a large business and you have been tasked with understanding the company's business processes, a flow chart or network activity graph is an essential part of your report: the best way to depict the internal structure of an organization is to visualize it. 
 
 <a href="/mydoc_2-2.html"><button>Next Page</button></a>
