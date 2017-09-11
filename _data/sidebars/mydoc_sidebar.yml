@@ -68,6 +68,28 @@ entries:
       url: /mydoc_2-4.html
       output: web
 
+  - title: Formal Reports 
+    output: web, pdf
+    folderitems:
+
+    - title: Why it matters? 
+      url: /mydoc_3-0.html
+      output: web, pdf
+
+    - title: Types of Reports
+      url: /mydoc_3-1.html
+      output: web, pdf
+
+    - title: Report Sections
+      url: /mydoc_3-2.html
+      output: web, pdf
+
+    - title: Wrap Up and Checklist
+      url: /mydoc_3-3.html
+      output: web, pdf
+
+
+
 
 #   - title: Release Notes
 #     output: web, pdf
