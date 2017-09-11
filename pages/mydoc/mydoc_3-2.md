@@ -89,6 +89,36 @@ folder: mydoc
 </tr>
 </tbody>
 </table>
+<table cellspacing="0" cellpadding="0">
+<thead>
+<tr>
+<th>Page</th>
+<th>Element</th>
+<th>Function</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8. Conclusion</td>
+<td>Concise presentation of findings</td>
+<td>This portion clearly indicates the main results and their relation to recommended action or outcome.</td>
+<td>
+                        </td></tr>
+<tr>
+<td>9. References</td>
+<td>Bibliography or Works Cited</td>
+<td>This part contains a list of citations.</td>
+<td>
+                        </td></tr>
+<tr>
+<td>10. Appendix</td>
+<td>Related supporting materials</td>
+<td>This may include maps, analysis of soil samples, and field reports.</td>
+<td>
+                        </td></tr>
+</tbody>
+</table>
 
 ## About Executive Summaries
 Generally, abstracts and executive summaries fulfill similar purposes. If you have done a lot of academic writing, you are familiar with abstracts for journal articles. You've probably used these abstracts to help determine the utility of the article for your research (thus saving you the time of reading the entire article if not necessary). Executive summaries serve the same purpose: in an organizational context, the Executive Summary gives the audience the essential information to help them decide if it is necessary to read the entire report. 
