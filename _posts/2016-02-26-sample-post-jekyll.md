@@ -1,10 +1,14 @@
 ---
-title:  "Sample post"
+title: Sample post
 published: true
 permalink: samplepost.html
-summary: "This is some summary frontmatter for my sample post."
-tags: [news, getting_started]
+summary: This is some summary frontmatter for my sample post.
+tags:
+  - news
+  - getting_started
 ---
+
+# 2016-02-26-sample-post-jekyll
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
 
@@ -14,4 +18,3 @@ but also the leap into electronic typesetting, remaining essentially unchanged. 
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
 
-{% include links.html %}
