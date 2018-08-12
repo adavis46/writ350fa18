@@ -3,13 +3,13 @@ repository: tomjohnson1492/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: WRIT 300 Open Text  
+topnav_title: WRIT 350: Writing about Digital Media 
 # this appears on the top navigation bar next to the home button
 
-site_title: WRIT 300 Open Text
+site_title: WRIT 350: Writing about Digital Media
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Department of Writing and Rhetoric | University of Mississippi
+company_name: University of Mississippi
 # this appears in the footer
 
 github_editme_path:
@@ -32,7 +32,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: WRIT 300 Open Text
+feedback_subject_line: WRIT 350 Course Site
 
 feedback_email: addavis@olemiss.edu
 # used as a contact email for the Feedback link in the top navigation bar
@@ -101,7 +101,7 @@ sidebars:
 - mydoc_sidebar
 
 
-description: "Course content for WRIT 300."
+description: "Course content for WRIT 350."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
